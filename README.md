@@ -1,4 +1,4 @@
-# 🧪 Junior JavaScript Developer Technical Test
+# 🧪 JavaScript Developer Technical Test
 
 **Estimated Time:** ~2 hours  
 **Stack:** React · TypeScript · Node.js · Express.js  
@@ -23,7 +23,7 @@ Don't worry about making it look beautiful (though that's a bonus!) — we care 
 ## 🗂 Project Structure
 
 ```
-junior-javascript-test/
+tf-react-tech-test/
 ├── src/
 │   ├── App.tsx              ← Main React component — start here for the frontend
 │   ├── types.ts             ← Shared TypeScript types — extend these as needed
